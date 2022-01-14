@@ -1,6 +1,6 @@
 # LegionHub
 
-Legion Hub is a shitty Roblox script that will have multiple games supported. vuln scanner will be the first feature made (backdoor scanner included). 
+Legion Hub is a shitty Roblox script that will have multiple games supported. 
 
 ------------
 
