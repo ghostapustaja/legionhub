@@ -5,10 +5,10 @@ Legion Hub is a shitty Roblox script that will have multiple games supported.
 ------------
 
 ### How do I use this?
-just execute the script on the roblox executable with a exploit or dev console...
+just execute the script with a exploit like synapse x
 
 --------------
 
 ### Why did you make this?
 
-because I was bored and i just wanted to make something that would be easy to make
+because I was bored
